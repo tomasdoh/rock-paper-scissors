@@ -4,9 +4,9 @@ Play *Rock, Paper, Scissors* against your computer. A simple web application bui
 
 ## Screenshots
 
-![Welcome page]('./public/screenshots/welcome.png')
-![Weapon selection]('./public/screenshots/play.png')
-![Result]('./public/screenshots/result.png')
+![Welcome page](/public/screenshots/welcome.png)
+![Weapon selection](/public/screenshots/play.png)
+![Result](/public/screenshots/result.png)
 
 ## User stories
 ```
