@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors
+# Rock, Paper, Scissors [![Build Status](https://travis-ci.org/tomasdoh/rock-paper-scissors.svg?branch=master)](https://travis-ci.org/tomasdoh/rock-paper-scissors)
 
 Play *Rock, Paper, Scissors* against your computer. A simple web application built with Sinatra and tested with RSpec and Capybara. Built over a weekend as part of Makers Academy.
 
