@@ -6,6 +6,7 @@ gem 'pry'
 gem 'rake'
 gem 'shotgun'
 gem 'sinatra'
+gem 'simplecov-shield'
 
 group :test do
   gem 'capybara'
